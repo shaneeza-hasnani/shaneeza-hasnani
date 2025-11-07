@@ -26,10 +26,17 @@ From forensic investigations to machine learning models, I am channeling my curi
 
 ### Badges
 
-<b>My GitHub Stats</b>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shaneeza-hasnani&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shaneeza-hasnani&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaneeza-hasnani&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="http://www.github.com/shaneeza-hasnani"><img src="https://github-readme-stats.vercel.app/api?username=shaneeza-hasnani&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=14b8a6&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="shaneeza-hasnani's GitHub stats" /></a>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shaneeza-hasnani&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<a href="http://www.github.com/shaneeza-hasnani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shaneeza-hasnani&stroke=14b8a6&background=000000&ring=a855f7&fire=a855f7&currStreakNum=14b8a6&currStreakLabel=a855f7&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<a href="https://github.com/shaneeza-hasnani" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaneeza-hasnani&langs_count=10&title_color=a855f7&text_color=14b8a6&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
