@@ -13,6 +13,7 @@ From forensic investigations to machine learning models, I am channeling my curi
 * 🌍  I'm based in Washington, DC
 * 🖥️  See my portfolio at [Shaneeza Hasnani](http://www.shaneeza-hasnani.com/)
 * ✉️  You can contact me at [hasnani.shaneeza@gmail.com](mailto:hasnani.shaneeza@gmail.com)
+* 💻  View all my projects at [Shaneeza Hasnani](https://github.com/stars/shaneeza-hasnani/lists/personal-projects) 
 * 👥  I'm looking to collaborate on anything that hunts patterns, flags anomalies, or helps people make smarter decisions with data!
 * 💬  Ask me about Curious? Collaborative? Just want to say hi? Please reach out! I promise I don't bite (unless it's fraud)
 
