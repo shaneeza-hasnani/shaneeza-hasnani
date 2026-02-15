@@ -11,7 +11,7 @@ Before this, I earned my Bachelor of Science in Fraud Examination and Financial 
 From forensic investigations to machine learning models, I am channeling my curiosity into data science.
 
 * 🌍  I'm based in Washington, DC
-* 🖥️  See my portfolio at [Shaneeza Hasnani](http://www.shaneeza-hasnani.com/)
+* 🖥️  See my portfolio at [shaneeza-hasnani.com](http://www.shaneeza-hasnani.com/)
 * ✉️  You can contact me at [hasnani.shaneeza@gmail.com](mailto:hasnani.shaneeza@gmail.com)
 * 💻  View all my projects at [Personal Projects](https://github.com/stars/shaneeza-hasnani/lists/personal-projects) 
 * 👥  I'm looking to collaborate on anything that hunts patterns, flags anomalies, or helps people make smarter decisions with data!
