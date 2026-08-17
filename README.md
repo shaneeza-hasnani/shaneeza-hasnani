@@ -46,10 +46,6 @@ My background spans fraud examination, financial forensics, analytics, and compu
   <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shaneeza-hasnani&layout=compact&hide_border=true&langs_count=6" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shaneeza-hasnani&hide_border=true" />
-</p>
-
 ---
 
 <p align="center">
