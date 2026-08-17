@@ -1,29 +1,53 @@
-Hey There! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Shaneeza Hasnani
-=========================================================================================================================================
+# Hi, I'm Shaneeza 👋
 
-Certified Fraud Examiner and an Aspiring Data Scientist
--------------------------------------------------------
+### Fraud Analytics · Data Science · Machine Learning
 
-I am working toward my Master's in Business Analytics and AI, graduating December 2026.
+I'm a **Certified Fraud Examiner (CFE)** and data scientist focused on using data, machine learning, and investigative thinking to uncover patterns, detect anomalies, and solve problems in **fraud and financial crime**.
 
-Before this, I earned my Bachelor of Science in Fraud Examination and Financial Forensics, with a minor in Computer Science from CUNY John Jay College of Criminal Justice.
+Currently pursuing my **M.S. in Business Analytics & AI** at American University, graduating **December 2026**.
 
-From forensic investigations to machine learning models, I am channeling my curiosity into data science.
+My background spans fraud examination, financial forensics, analytics, and computer science, which means I tend to approach data a little differently: not just *what happened?*, but **what looks unusual, why did it happen, and how can we detect it earlier?**
 
-* 🌍  I'm based in Washington, DC
-* 🖥️  See my portfolio at [shaneeza-hasnani.com](http://www.shaneeza-hasnani.com/)
-* ✉️  You can contact me at [hasnani.shaneeza@gmail.com](mailto:hasnani.shaneeza@gmail.com)
-* 💻  View all my projects at [Personal Projects](https://github.com/stars/shaneeza-hasnani/lists/personal-projects) 
-* 👥  I'm looking to collaborate on anything that hunts patterns, flags anomalies, or helps people make smarter decisions with data!
-* 💬  Curious? Collaborative? Just want to say hi? Please reach out! I promise I don't bite (unless it's fraud)
+---
 
-### Skills
+### 🔎 What I'm interested in
+
+- Fraud detection & financial crime analytics
+- Machine learning & anomaly detection
+- Investigative and behavioral analytics
+- NLP & unstructured data
+- Turning messy data into useful decisions
+
+### 🛠️ Tech I work with
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" alt="rlang" title="rlang" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL"
-width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img 
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,aws,git,github,vscode" />
 </p>
 
+**Data & ML:** Python · R · SQL · Pandas · NumPy · scikit-learn · NLP · Machine Learning  
+**Analytics:** Tableau · Power BI · Excel  
+**Other:** Git · GitHub · AWS
 
-### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
+
+### 📂 Explore my work
+
+🌐 **Portfolio:** [shaneeza-hasnani.com](https://www.shaneeza-hasnani.com/)  
+💻 **Projects:** [Personal Projects](https://github.com/stars/shaneeza-hasnani/lists/personal-projects)  
+📍 **Based in:** Washington, DC  
+✉️ **Contact:** [hasnani.shaneeza@gmail.com](mailto:hasnani.shaneeza@gmail.com)
+
+---
+
+### 📊 A little GitHub data
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shaneeza-hasnani&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaneeza-hasnani&layout=compact&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>Finding the signal hiding in the noise.</i>
+</p>
