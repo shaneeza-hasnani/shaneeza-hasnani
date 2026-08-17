@@ -41,13 +41,10 @@ My background spans fraud examination, financial forensics, analytics, and compu
 
 ### 📊 A little GitHub data
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shaneeza-hasnani&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaneeza-hasnani&layout=compact&hide_border=true" />
-</p>
-
 ---
 
 <p align="center">
+  <b>Fraud Analytics · Machine Learning · Financial Crime</b>
+  <br><br>
   <i>Finding the signal hiding in the noise.</i>
 </p>
